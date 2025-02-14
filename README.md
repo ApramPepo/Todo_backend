@@ -5,7 +5,7 @@ Tech stack used:
 
 <ul>
   <li>C#</li>
-  <li>Asp.Net</li>
+  <li>Asp.Net Core 6.0</li>
   <li>PostgreSQL</li>
   <li>REST API</li>
   <li>JWT</li>
